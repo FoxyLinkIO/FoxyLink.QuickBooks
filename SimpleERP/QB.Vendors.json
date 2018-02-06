@@ -9,45 +9,45 @@
 "Channels": [
 {
 "APIVersion": "1.0.0",
-"Channel": "b640874c-0609-11e8-9be4-107b4414a43a",
+"Channel": "0a8f54f5-09f1-11e8-9be6-107b4414a43a",
 "Method": "e64d381c-dc56-11e7-9bd4-107b4414a43a",
 "ResponseHandler": "",
-"BasicChannelGuid": null,
-"Connected": null,
-"Description": null,
-"Log": null,
-"PredefinedDataName": null,
-"Version": null
+"BasicChannelGuid": "2852db39-a66e-45f8-a813-bd73bc4a66bd",
+"Connected": true,
+"Description": "QuickBooks",
+"Log": false,
+"PredefinedDataName": "",
+"Version": "1.0.1.1"
 },
 {
 "APIVersion": "1.0.0",
-"Channel": "b640874c-0609-11e8-9be4-107b4414a43a",
+"Channel": "0a8f54f5-09f1-11e8-9be6-107b4414a43a",
 "Method": "e64d381e-dc56-11e7-9bd4-107b4414a43a",
 "ResponseHandler": "",
-"BasicChannelGuid": null,
-"Connected": null,
-"Description": null,
-"Log": null,
-"PredefinedDataName": null,
-"Version": null
+"BasicChannelGuid": "2852db39-a66e-45f8-a813-bd73bc4a66bd",
+"Connected": true,
+"Description": "QuickBooks",
+"Log": false,
+"PredefinedDataName": "",
+"Version": "1.0.1.1"
 },
 {
 "APIVersion": "1.0.0",
-"Channel": "b640874c-0609-11e8-9be4-107b4414a43a",
+"Channel": "0a8f54f5-09f1-11e8-9be6-107b4414a43a",
 "Method": "e64d381f-dc56-11e7-9bd4-107b4414a43a",
 "ResponseHandler": "",
-"BasicChannelGuid": null,
-"Connected": null,
-"Description": null,
-"Log": null,
-"PredefinedDataName": null,
-"Version": null
+"BasicChannelGuid": "2852db39-a66e-45f8-a813-bd73bc4a66bd",
+"Connected": true,
+"Description": "QuickBooks",
+"Log": false,
+"PredefinedDataName": "",
+"Version": "1.0.1.1"
 }
 ],
 "ChannelResources": [
 {
 "APIVersion": "1.0.0",
-"Channel": "b640874c-0609-11e8-9be4-107b4414a43a",
+"Channel": "0a8f54f5-09f1-11e8-9be6-107b4414a43a",
 "ExecutableCode": false,
 "FieldName": "ResourceType",
 "FieldValue": "Vendor.GET",
@@ -55,7 +55,7 @@
 },
 {
 "APIVersion": "1.0.0",
-"Channel": "b640874c-0609-11e8-9be4-107b4414a43a",
+"Channel": "0a8f54f5-09f1-11e8-9be6-107b4414a43a",
 "ExecutableCode": false,
 "FieldName": "ResourceType",
 "FieldValue": "Vendor.POST",
@@ -63,7 +63,7 @@
 },
 {
 "APIVersion": "1.0.0",
-"Channel": "b640874c-0609-11e8-9be4-107b4414a43a",
+"Channel": "0a8f54f5-09f1-11e8-9be6-107b4414a43a",
 "ExecutableCode": false,
 "FieldName": "ResourceType",
 "FieldValue": "Vendor.POST",
